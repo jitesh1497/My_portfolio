@@ -1,7 +1,6 @@
 {
   "name": "Jitesh_kumar-sah",
   "version": "0.1.0",
-  "homepage": "https://github.com/jitesh1497",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
